@@ -1,4 +1,2 @@
-# HelloWorld-THP
-A Hello World Vercel App for The Humor Project Spring 2026!
-
-Week 1 Homework Assignment
+# TheHumorProject1
+Vercel Deployed App for The Humor Project Spring 2026!
